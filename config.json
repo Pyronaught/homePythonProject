@@ -1,0 +1,16 @@
+{
+	"iloAPI"
+	{
+		"City": "Dallas", 
+		"Country": "USA", 
+		"OrgName": "WWT", 
+		"OrgUnit": "NoOne", 
+		"State": "TX", 
+		"IncludeIP": "true"
+	}
+	"OtherAPI"
+	{
+	"Roomate":"No One"
+	}
+
+}
